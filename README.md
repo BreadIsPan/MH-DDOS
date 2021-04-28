@@ -1,15 +1,4 @@
-<p align="center"><img src="./screenshot/logo.ico" width="150px" height="150px" alt="aventium softworks"></p>
-
-<h1 align="center">MHDDoS - DDoS Attack Script With 36 Method</h1>
-
-<em><h5 align="center">(Code Lang - Python 3)</h5></em>
-
-
-<p align="center">Please Don't Hit '.gov'  and '.ir' Websites :)</p>
-
-<p align="center"><img src="https://i.imgur.com/aNrHJcA.png" width="1078" height="433" alt="POWER"></p>
-<p align="center"><img src="https://i.imgur.com/ueDhdte.png" width="1078" height="296" alt="SCRIPT"></p>
-
+THIS IS JUST EDITED VERSION
 ## Features And Method
 
  * 💣 Layer7
